@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushbudania&label=Profile%20views&color=0e75b6&style=flat" alt="aayushbudania" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushbudania" alt="aayushbudania" /></a> </p>
-
 - 🔭 I’m currently working on [NewsAi - A voice controlled news reading application.](https://github.com/aayushbudania/NewsAi)
 
 - 👯 I’m looking to collaborate on **MERN Stack projects.**
